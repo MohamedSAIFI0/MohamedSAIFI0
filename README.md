@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed SAIFI 👋
 
-## 🎓 DATA && AI && CLOUD 
+## 🎓 DATA & AI & CLOUD 
 
 I'm a passionate Data Engineering student specializing in data analysis and processing, with strong expertise in data engineering tools and technologies. I also have experience in extracurricular project management and audiovisual creation.
 
@@ -137,6 +137,7 @@ I'm always interested in collaborating on data engineering projects or discussin
 ---
 
 ⭐️ From [mohamedsaifi0](https://github.com/mohamedsaifi0)
+
 
 
 
